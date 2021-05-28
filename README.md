@@ -2,6 +2,4 @@
 
 我是一名在读研究僧。
 
-[Homepage：xuguangwei.com](www.xuguangwei.com)
-
-[5](xuguangwei.com)
+[Homepage：xuguangwei.com](https://xuguangwei.com)
