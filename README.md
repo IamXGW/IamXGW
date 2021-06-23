@@ -1,6 +1,6 @@
 这里是 IamXGW 的 GitHub 主页，我的个人站是 [Homepage：xuguangwei.com](https://xuguangwei.com)。
 
-我是山东人，现在在杭州读研究生（目前研一），本硕都是计算机专业。我的技术背景包括：
+我是山东人，现在杭州读研究生（目前研一），本硕都是计算机专业。我的技术背景包括：
 
 * Java
 * Unix / Linux
