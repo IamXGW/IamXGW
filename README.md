@@ -2,6 +2,8 @@
 
 我是山东人，现在杭州读研究生（目前研一），本硕都是计算机专业。我的技术背景包括：
 
+* Video Action Recognition（动作识别）
+* Python
 * Java
 * Unix / Linux
 
